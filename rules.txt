@@ -1,0 +1,9 @@
+git init
+git status
+git config --gloabal user.name "name"
+git config --gloabal user.email "id"
+git add <fileame> or git add . (to add all files)
+git status
+git commit -m "msg"
+git remote  add origin "GitHub repo url"
+git push
